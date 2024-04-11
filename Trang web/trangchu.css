@@ -1,0 +1,119 @@
+*{margin: 0;
+    padding: 0;}
+
+.logo { width: 350px;
+    
+}
+.menubar {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;} 
+
+.menucontent{
+    justify-content: space-between;
+    display: flex;
+ }
+.column{ 
+    padding-left: 60px;
+    margin-right: 30px;
+}
+h3{ 
+    font-family:Avenir Next;
+    font: weight 15px;
+    color: gray;
+    font-size: 23px;
+ }
+
+.anhbia1 { 
+    width: 100%;
+    height: auto;
+}
+h1{ 
+    font-family:Avenir Next;
+    font: weight 15px;
+    color: orange;
+    font-size: 35px;
+ }
+.title{ 
+    text-align: center;
+    padding-top: 40px;
+}
+
+.section1{ 
+    width: 100%;
+    align-items: center;
+    display: flex;} 
+
+.anhvuong { width: 450px;
+    border-radius: 17px;
+}
+.concert1{ padding-left: 35px;
+    padding-top: 15px;}
+.concert2{ padding-left: 35px;
+    padding-top: 15px;}
+.concert3{ padding-left: 35px;
+    padding-top: 15px;}
+.concert4{ padding-left: 35px;
+    padding-top: 15px;}
+
+h2 { font-family:Avenir Next;
+    font: weight 15px;
+    color: gray;
+    font-size: 25px;
+    padding-top: 8px;
+}
+.subtitle { 
+    font-family:Avenir Next;
+    font-weight: bold;
+    color: gray;
+    font-size: 30px;
+    padding-top: 25px;
+    padding-left: 35px;
+}
+.section2{ 
+    width: 100%;
+    align-items: center;
+    display: flex;
+padding-bottom: 40px;} 
+
+
+footer {
+    padding-top: 40px;
+    background-color: #212020;
+    color: gray;
+    height:400px;
+    display: flex;
+}
+.footer-columns {
+
+    padding-left:400px;
+    display: flex;
+    width: 100%;
+    padding-top: 140px;
+ 
+}
+
+.column { 
+
+font-family:Avenir Next;
+font-weight: bold;
+color: gray;
+font-size: 18px;
+
+
+}
+h5{  font-family:Avenir Next;
+font-weight: bold;
+color: white;
+font-size: 30px;
+padding-bottom: 10px;
+ }
+.copyright{ 
+font-family:Avenir Next;
+font-weight: bold;
+color: gray;
+font-size: 20px;
+margin-top: 200px;
+margin-left: 50px;
+}
